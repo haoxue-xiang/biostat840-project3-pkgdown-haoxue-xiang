@@ -1,0 +1,16 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: yeti
+  theme: tango
+navbar:
+  structure:
+    left:  [github, reference, articles]
+    right: [search]
+home:
+  sidebar:
+    structure: [links, license, citation, authors, dev, custom]
+    components:
+      custom:
+        title: Website Maker
+        text: Haoxue Xiang

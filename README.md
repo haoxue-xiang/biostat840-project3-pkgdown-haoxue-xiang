@@ -22,6 +22,18 @@ Version](https://img.shields.io/badge/R%3E%3D-3.4.0-blue.svg)
 
 ## hrbrthemes
 
+[Github Link to the original R package](https://github.com/hrbrmstr/hrbrthemes)
+
+[Link to deployed website in part E]()
+
+Description of the 5 things I customized in my pkgdown website:
+
+1. Change website theme by using bootswatch theme Yeki
+2. Change the color used for syntax highlighting in code blocks to tango
+3. Change the website's nevigation bar structure (layout)
+4. Change the website's sidebar structure
+5. Add more component to sidebar and customize it. (Adding website maker component)
+
 Additional Themes and Theme Components for ‘ggplot2’
 
 -----
