@@ -24,7 +24,7 @@ Version](https://img.shields.io/badge/R%3E%3D-3.4.0-blue.svg)
 
 [Github Link to the original R package](https://github.com/hrbrmstr/hrbrthemes)
 
-[Link to deployed website in part E]()
+[Link to deployed website in part E](https://haoxue-xiang.github.io/biostat840-project3-pkgdown-haoxue-xiang/)
 
 Description of the 5 things I customized in my pkgdown website:
 
